@@ -267,14 +267,14 @@ ACT 5 — THE CALL TO ACTION (make the next step obvious)
 
 | Asset | Purpose | Persona | Channel | Owner | Due date | Status | Approved |
 |---|---|---|---|---|---|---|---|
-| Landing page | Convert inbound traffic | All | Web | PMM | | | |
-| Hero email | Announce to existing base | Existing customers | Email | PMM | | | |
+| Landing page | Convert inbound traffic | All | Web | Marketing | | | |
+| Hero email | Announce to existing base | Existing customers | Email | Marketing | | | |
 | Prospecting email | Announce to prospects | New buyers | Email | PMM + Sales | | | |
-| Sales one-pager | Leave-behind for meetings | Commercial buyer | Sales | PMM | | | |
-| Pitch deck update | Sales narrative | All stakeholders | Sales | PMM | | | |
+| Sales one-pager | Leave-behind for meetings | Commercial buyer | Sales | PMM + Sales | | | |
+| Pitch deck update | Sales narrative | All stakeholders | Sales | PMM + Sales | | | |
 | Battle card update | Competitive handling | Sales team | Sales | PMM | | | |
-| Blog post | SEO + thought leadership | Awareness stage | Web | PMM | | | |
-| LinkedIn post | Organic awareness | All | Social | PMM | | | |
+| Blog post | SEO + thought leadership | Awareness stage | Web | Marketing | | | |
+| LinkedIn post | Organic awareness | All | Social | Marketing | | | |
 | In-app announcement | Existing user adoption | End users | Product | PMM + Product | | | |
 | Press release | Media coverage (T1 only) | Media / market | PR | PMM + Comms | | | |
 
@@ -354,16 +354,16 @@ POST-LAUNCH SALES SUPPORT
 | -24hrs | Final check — all assets approved and ready | PMM | |
 | -24hrs | Sales team final briefing message sent | PMM | |
 | -2hrs | Landing page final check | PMM | |
-| -2hrs | Email sequences confirmed and ready to send | PMM | |
-| 09:00 | Landing page goes live | PMM | |
-| 09:05 | Email to existing customers sends | PMM | |
-| 09:30 | Blog post publishes | PMM | |
-| 09:30 | LinkedIn post goes live | PMM | |
+| -2hrs | Email sequences confirmed and ready to send | Marketing | |
+| 09:00 | Landing page goes live | Marketing | |
+| 09:05 | Email to existing customers sends | Marketing | |
+| 09:30 | Blog post publishes | Marketing | |
+| 09:30 | LinkedIn post goes live | Marketing | |
 | 10:00 | Sales prospecting sequence activates | Sales / PMM | |
-| 10:00 | Internal launch announcement sent | PMM | |
-| 12:00 | First signal check — traffic, opens, CTR | PMM | |
+| 10:00 | Internal launch announcement sent | Product / PMM | |
+| 12:00 | First signal check — traffic, opens, CTR | Marketing | |
 | 17:00 | End of day signal review | PMM | |
-| +24hrs | Day 1 summary to stakeholders | PMM | |
+| +24hrs | Day 1 summary to stakeholders | Product / PMM | |
 ```
 
 ---
@@ -401,10 +401,10 @@ PIPELINE
 
 | Metric | What it measures | Owner | Cadence |
 |---|---|---|---|
-| Demo requests | Top-of-funnel intent | PMM | Daily (week 1), weekly thereafter |
-| Landing page CVR | Messaging clarity | PMM | Weekly |
-| Email open rate | Subject line and sender relevance | PMM | Per send |
-| Email CTR | Message relevance and CTA clarity | PMM | Per send |
+| Demo requests | Top-of-funnel intent | Sales | Daily (week 1), weekly thereafter |
+| Landing page CVR | Messaging clarity | Marketing | Weekly |
+| Email open rate | Subject line and sender relevance | Marketing | Per send |
+| Email CTR | Message relevance and CTA clarity | Marketing | Per send |
 | MQL volume | Demand generation impact | PMM + Growth | Weekly |
 | MQL-to-SQL rate | Lead quality | PMM + Sales | Monthly |
 | Pipeline generated | Revenue impact | PMM + Sales | Monthly |
