@@ -14,14 +14,14 @@ An end-to-end framework for planning, executing, and measuring B2B SaaS product 
 
 A product launch is the highest-stakes moment in a product marketer's calendar. Done well, it generates pipeline, accelerates adoption, and establishes your product's position in the market. Done poorly, it wastes months of product investment on a single forgettable week.
 
-This playbook provides a structured approach to every stage of a B2B SaaS product launch — with templates, checklists, and frameworks that can be adapted to launches of any size or complexity.
+This playbook provides a structured approach to every stage of a B2B product launch with templates, checklists, and frameworks that can be adapted to launches of any size or complexity.
 
 ---
 
 ## Who This Is For
 
 - Product marketers who own launches end-to-end
-- PMMs at B2B SaaS or technical product companies
+- PMMs at B2B SaaS, deep tech or AI product companies
 - Marketing teams preparing for a first major product launch
 - Cross-functional teams who need a shared launch framework
 
