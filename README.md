@@ -6,7 +6,7 @@ An end-to-end framework for planning, executing, and measuring B2B SaaS product 
 
 ---
 
-> **A practical, repeatable playbook for PMMs who own launches end-to-end — from the first internal brief through to post-launch measurement and iteration.**
+> **A practical, repeatable playbook for PMMs who own launches end-to-end: from the first internal brief through to post-launch measurement and iteration.**
 
 ---
 
@@ -234,7 +234,7 @@ PROOF
 
 ### 2.2 The Launch Narrative Arc
 
-Every launch needs a narrative — not just a list of features. The strongest B2B launch narratives follow this structure:
+Every launch needs a narrative, not just a list of features. The strongest B2B launch narratives follow this structure:
 
 ```
 ACT 1 — THE PROBLEM (make them feel seen)
@@ -483,17 +483,17 @@ MULTI-TOUCH
     (Identifies the most effective sequence — most useful for future launches)
 ```
 
-**Practical approach for lean teams:** If full multi-touch attribution isn't set up, capture first touch and last touch at minimum. Add a "How did you hear about us?" field to your demo request form — imperfect but directionally valuable.
+**Practical approach for lean teams:** If full multi-touch attribution isn't set up, capture first touch and last touch at minimum. Add a "How did you hear about us?" field to your demo request form - imperfect but directionally valuable.
 
 ---
 
 ## Core Principles
 
 **1. Nail the brief before touching an asset**
-Every hour spent on a misaligned asset is wasted. The brief is the highest-leverage document in a launch — treat it as such.
+Every hour spent on a misaligned asset is wasted. The brief is the highest-leverage document in a launch, treat it as such.
 
 **2. Enable sales before you go external**
-A launch that generates inbound before sales is ready destroys pipeline. Sales enablement is not a launch deliverable — it's a launch prerequisite.
+A launch that generates inbound before sales is ready destroys pipeline. Sales enablement is not a launch deliverable, it's a launch prerequisite.
 
 **3. Launch day is not the finish line**
 The launch moment is the beginning of a measurement and iteration cycle, not the end of a production cycle. The PMMs who drive the most impact treat day 0 as the start, not the destination.
